@@ -1,41 +1,25 @@
 title: Ratinder Singh's Portfolio
-description: Personal site to showcase my projects, skills, and resume.
-baseurl: "" # leave this empty if using GitHub Pages with user/organization site (username.github.io)
-url: "https://username.github.io" # replace with your actual GitHub Pages URL
+description: DevOps Engineer
+baseurl: "" # Leave empty if using GitHub Pages for a user/organization site
+url: "https://rsingh0101.github.io"
 
-# Theme
 theme: jekyll-theme-minimal
 
-# Author info
 author:
   name: Ratinder Singh
-  email: ratinder@example.com
-  github: ratindersingh
-  linkedin: ratindersingh
-  twitter: ratind3r
+  email: ratinder021@gmail.com
+  github: https://github.com/rsingh0101
+  linkedin: https://www.linkedin.com/in/ratinder-singh-151113173/
 
-# Navigation links (if theme supports it)
-navigation:
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  - title: Blog
-    url: /blog
-  - title: Contact
-    url: /contact
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
 
-# Plugins (optional)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
-
-# Social (used by some themes)
-social_links:
-  github: https://github.com/ratindersingh
-  linkedin: https://www.linkedin.com/in/ratindersingh
-  twitter: https://twitter.com/ratind3r
