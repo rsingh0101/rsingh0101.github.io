@@ -1,91 +1,68 @@
-# RATINDER SINGH
+# Ratinder Singh
 
-```
-Hisar,Haryana,India ratinder021@gmail.com +919518033615 in/ratinder-singh-151113173 github.com/rsingh
-```
-## SUMMARY
+📍 Hisar, Haryana, India  
+📧 [ratinder021@gmail.com](mailto:ratinder021@gmail.com)  
+📞 +91 95180 33615  
+🔗 [LinkedIn](https://www.linkedin.com/in/ratinder-singh-151113173/) • [GitHub](https://github.com/rsingh0101)
 
-```
-DevOps Engineer with 2+ years at NPCI, driving scalable CBDC deployments and system automation initiatives. Optimized CI/CD pipelines via
-GitLab, Kubernetes, and Helm, achieving 60% faster deployments. Proficient in Docker, Kubernetes, and Terraform.
-```
-## SKILLS
+---
 
-```
-Platforms: On-prem , GCP, AWS
-GCP: Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud SQL, GCS, VPC, Cloud Load Balancing, Cloud NAT,
-Firewall Rules, Pub/Sub, Cloud Monitoring, Cloud Logging, Secret Manager, Cloud Build, Artifact Registry, IAM, Service Accounts
-IAC: Terraform, Ansible
-Orchestration & Mgmt: Kubernetes, Rancher
-CI/CD: GitLab Runner, Argo CD, Jenkins
-Monitoring & Observability: Prometheus, Grafana, Thanos, EFK Stack
-LB & Proxy: NGINX, HAProxy
-Databases: MariaDB, KeyDB
-Scripting: Bash, Python, Golang
-Streaming: Apache Kafka, Strimzi
-SecretManager: Hashicorp Vault
-```
-## EXPERIENCE
+## 🧾 Summary
 
-## DevOps Engineer
+DevOps Engineer with 2+ years at NPCI, driving scalable CBDC deployments and system automation initiatives.  
+Optimized CI/CD pipelines via GitLab, Kubernetes, and Helm, achieving 60% faster deployments.  
+Proficient in Docker, Kubernetes, and Terraform.
 
-```
-National Payments Corporation of India (NPCI) January 2023 - Present,Mumbai, Maharashtra
-Managed nationwide CBDC production deployments, ensuring scalability and handling over 20,000 transactions per day with 99.99% uptime.
-Supported critical programs such as TPAP, Offline-CBDC, and PCBDC, optimizing transaction security and operational efficiency.
-```
-### •
+---
 
-```
-Developed helm charts and automated deployment pipelines for HLF based networks and Golang backend applications using GitLab CI/CD,
-reducing deployment time by 80%. Maintained central git repository for infrastructure tools and configuration management across multiple
-environments. Optimized image with low vulnerabilities using docker-slim reducing image sizes by 5x.
-```
-### •
+## 🛠️ Skills
 
-```
-Integrated k8s logging with EFK dashboards and established backup workflows, reducing manual intervention by 50% and enhancing operational
-visibility. Set up a multi-site observability stack using Prometheus, Grafana, and Thanos to monitor metrics across multiple Kubernetes clusters in
-production.
-```
-### •
+**Platforms**: On-prem, GCP, AWS  
+**GCP Services**: Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud SQL, GCS, VPC, Cloud Load Balancing, Cloud NAT, Firewall Rules, Pub/Sub, Cloud Monitoring, Cloud Logging, Secret Manager, Cloud Build, Artifact Registry, IAM, Service Accounts  
+**Infrastructure as Code**: Terraform, Ansible  
+**Container Orchestration & Management**: Kubernetes, Rancher  
+**CI/CD**: GitLab Runner, Argo CD, Jenkins  
+**Monitoring & Observability**: Prometheus, Grafana, Thanos, EFK Stack  
+**Load Balancing & Proxying**: NGINX, HAProxy  
+**Databases**: MariaDB, KeyDB  
+**Scripting & Programming**: Bash, Python, Golang  
+**Streaming & Messaging**: Apache Kafka, Strimzi  
+**Secret Management**: Hashicorp Vault
 
-```
-Architected and managed multi-cluster MariaDB and KeyDB infrastructures, enabling real-time data replication and high availability. Configured
-Kafka with Helm for secure external communication using TLS.
-```
-### •
+---
 
-```
-Installed Rancher via Helm on Kubernetes; configured cert-manager, deployed with Ingress and TLS, and accessed the Rancher UI for managing
-downstream clusters. Set up virtual clusters (Vclusters) with Linux-based user access for connecting multiple Kubernetes clusters. Rook-ceph
-cluster setup, troubleshooting and configuration for storage classes on multiple vclusters.
-```
-### •
+## 💼 Experience
 
-```
-Delivered operational excellence by implementing NGINX App Protect WAF for enhanced security and custom whitelisting. Resolved
-infrastructure issues with bank partners, created SOPs for backup/restore, and migration automations using shell scripts.
-```
-### •
+### DevOps Engineer  
+**National Payments Corporation of India (NPCI)**  
+*Jan 2023 – Present, Mumbai, Maharashtra*
 
-## CERTIFICATIONS
+- Managed nationwide CBDC production deployments, ensuring scalability and 99.99% uptime across 20,000+ transactions/day.
+- Supported critical programs: TPAP, Offline-CBDC, and PCBDC, optimizing security and operational efficiency.
+- Developed Helm charts and automated GitLab CI/CD pipelines for HLF networks and Golang apps, reducing deployment time by 80%.
+- Maintained a centralized Git repository for infrastructure tools and configurations across multiple environments.
+- Used `docker-slim` to reduce image sizes by 5× while minimizing vulnerabilities.
+- Integrated Kubernetes logging with EFK dashboards, reducing manual effort by 50% and improving visibility.
+- Built a multi-site observability stack with Prometheus, Grafana, and Thanos across Kubernetes clusters.
+- Architected and managed multi-cluster MariaDB and KeyDB with real-time replication and HA.
+- Configured Kafka via Helm for secure TLS-based external communication.
+- Deployed Rancher via Helm with cert-manager, Ingress, and TLS for managing downstream clusters.
+- Set up Vclusters with Linux-based user access for multi-cluster Kubernetes environments.
+- Deployed Rook-Ceph for dynamic storage provisioning; handled troubleshooting and storage class setup.
+- Implemented NGINX App Protect WAF for enhanced security and fine-grained whitelisting.
+- Automated backup/restore, migration tasks using shell scripts and resolved infra issues with banking partners.
 
-## Certified Kubernetes Administrator (CKA)
+---
 
-```
-Linux Foundation• 2024
-```
-## Advanced Certificate in DevOps
+## 🎓 Education
 
-```
-Carnegie Mellon University• 2024
-```
-## EDUCATION
+**B.Tech in Electrical Engineering**  
+*Guru Jambheshwar University of Science and Technology*  
+Hisar, Haryana • June 2022 • CGPA: 7.62
 
+---
 
-## B.Tech in Electrical Engineering
+## 📜 Certifications
 
-Guru Jambheshwar University of Science and Technology•Hisar, Haryana•June 2022•7.
-
-
+- **Certified Kubernetes Administrator (CKA)** – Linux Foundation, 2024  
+- **Advanced Certificate in DevOps** – Carnegie Mellon University, 2024
