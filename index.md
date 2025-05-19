@@ -1,26 +1,29 @@
 ---
-layout: home
-title: "Ratinder Singh – DevOps Engineer"
+layout: default
+title: Ratinder Singh – DevOps Engineer
 ---
 
-# 👋 Hi, I'm Ratinder Singh
+# Ratinder Singh  
+**DevOps Engineer | Kubernetes | CI/CD | Cloud Infrastructure**
 
-DevOps Engineer with 2+ years of experience at NPCI, focused on scalable infrastructure, Kubernetes automation, and secure CI/CD delivery pipelines.
+I am a results-driven DevOps Engineer with 2+ years of experience at NPCI, specializing in scalable infrastructure, Kubernetes automation, and secure CI/CD pipelines.
 
-- 💻 Currently working on production-grade deployments for CBDC using Kubernetes, Helm, and GitLab CI/CD.
-- 🌐 Passionate about cloud-native technologies, automation, and building resilient systems.
-- 📊 Skilled in observability (Prometheus, Grafana, EFK), infrastructure (Terraform, GCP), and container security.
+## What I do
 
----
-
-## 🚀 Explore More
-
-- 📄 [Resume](/resume)  
-- 🛠️ [Projects](/projects)  
-- 👤 [About Me](/about)  
-- ✍️ [Blog](/blog)  
-- 📬 [Contact](/contact)
+- Production deployments for CBDC using Kubernetes, Helm, and GitLab CI/CD  
+- Cloud-native technologies, Terraform, GCP, observability (Prometheus, Grafana, EFK)  
+- Building resilient, secure, and automated enterprise-grade systems  
 
 ---
 
-_Always open to collaboration, freelance, and remote DevOps opportunities._
+## Explore
+
+- [Resume](/resume)  
+- [Projects](/projects)  
+- [About Me](/about)  
+- [Blog](/blog)  
+- [Contact](/contact)  
+
+---
+
+*Open to collaboration, freelance, and remote opportunities. Let’s connect.*
