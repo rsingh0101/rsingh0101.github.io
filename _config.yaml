@@ -3,7 +3,7 @@ description: DevOps Engineer
 baseurl: "" # Leave empty if using GitHub Pages for a user/organization site
 url: "https://rsingh0101.github.io"
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
 author:
   name: Ratinder Singh
