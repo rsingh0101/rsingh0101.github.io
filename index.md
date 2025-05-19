@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ratinder Singh – DevOps Engineer
+title: Ratinder Singh
 ---
 
 # Ratinder Singh  
@@ -20,9 +20,7 @@ I am a results-driven DevOps Engineer with 2+ years of experience at NPCI, speci
 
 - [Resume](/resume)  
 - [Projects](/projects)  
-- [About Me](/about)  
-- [Blog](/blog)  
-- [Contact](/contact)  
+- [Blog](/blog)    
 
 ---
 
