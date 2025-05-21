@@ -33,7 +33,7 @@ A blockchain-based transaction flow project enabling foreign currency exchanges 
 Containerized sample application featuring REST APIs written in Go, a React front-end, and CI/CD pipelines implemented via GitLab runners.
 
 **Skills:** MariaDB · Go · React.js · Helm Charts · Kubernetes · CI/CD · GitLab  
-**Repository:** [Ratinder Singh / Goapp](https://gitlab.com/Ratinder%20Singh/Goapp)
+**Repository:** [Ratinder Singh / Goapp](https://gitlab.com/ratinder021/goapp)
 
 ---
 
